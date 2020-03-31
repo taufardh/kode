@@ -10,7 +10,7 @@
         </tr>
     </thead>
     <tbody>
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
         </tr>
         <td class="td_title"><a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a></td>
         <td class="td_date">{{post.date | date: "%b %d, %y"}}</td>
