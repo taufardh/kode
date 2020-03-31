@@ -15,6 +15,7 @@ permalink: /
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
+* This is add a paragraph
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
