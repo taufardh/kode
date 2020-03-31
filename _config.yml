@@ -3,21 +3,9 @@ title: Blog
 owner: "taufardh"
 url: "https://taufardh.github.io"
 baseurl: "/poem"
-#permalink: /:title/
-description: "simple blogs"
+permalink: /:title/
+description: "simple blog"
 markdown: kramdown
-plugins:
-  - jekyll-paginate-v2
-permalink: /:year/:month/
-pagination:
-  enabled: true
-  per_page: 5
-  sort_reverse: true
-  sort_field: 'date'
-  title: ':title'
-  trail:
-    before: 2
-    after: 2
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
