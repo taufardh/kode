@@ -4,7 +4,7 @@ owner: "taufardh"
 url: "https://taufardh.github.io"
 baseurl: "/poem"
 permalink: /:title/
-description: "simple blog"
+description: "simple blogs"
 markdown: kramdown
 webrick:
   headers:
