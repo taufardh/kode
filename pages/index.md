@@ -22,6 +22,8 @@ permalink: /
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
   * secret msg 2: 
   <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
+  * secret msg 3:
+  <p class="encrypted" id="rnWJnZNg8IYEAnfYlN3fXwrnUEjmitDF7LWBOaGu8xUYXVI5AWoEwJQF8=">Encrypted content!</p>
 * LaTeX formula Support with MathJax
 
 $$
