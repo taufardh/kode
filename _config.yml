@@ -2,7 +2,7 @@
 title: Blog
 owner: "taufardh"
 url: "https://taufardh.github.io"
-baseurl: "/poem"
+baseurl: "/puisi"
 permalink: /:title/
 description: "simple blog page"
 markdown: kramdown
