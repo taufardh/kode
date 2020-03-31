@@ -6,6 +6,8 @@ baseurl: "/poem"
 permalink: /:title/
 description: "simple blog page"
 markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
 paginate: 5
 paginate_path: "/poem/page:num/"
 webrick:
