@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# THIS IS HOMEPAGE
+# THIS IS A HOMEPAGE
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
