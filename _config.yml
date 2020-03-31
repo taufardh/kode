@@ -4,7 +4,7 @@ owner: "taufardh"
 url: "https://taufardh.github.io"
 baseurl: "/poem"
 permalink: /:title/
-description: "simple blog"
+description: "simple blog page"
 markdown: kramdown
 paginate: 5
 paginate_path: "/poem/page:num/"
