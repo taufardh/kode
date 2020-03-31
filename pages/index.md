@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# taufardh HOMEPAGE
+# THIS IS HOMEPAGE
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
