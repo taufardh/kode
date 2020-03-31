@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# THIS IS A HOMEPAGE
+# Kata Kita Kata Kata
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
