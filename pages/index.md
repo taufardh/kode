@@ -1,6 +1,6 @@
 ---
 layout: default
-post_list: "date"
+post_list: "category"
 toc: false
 home_btn: true
 btn_text: true
