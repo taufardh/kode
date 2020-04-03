@@ -1,8 +1,8 @@
 ## Settings
-title: Blog
+title: Kode Kata
 owner: "taufardh"
 url: "https://taufardh.github.io"
-baseurl: "/puisi"
+baseurl: "/kode"
 permalink: /:title/
 description: "simple blog pages"
 markdown: kramdown
@@ -14,7 +14,7 @@ email: "ardhwood@gmail.com"
 github: "taufardh"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
+statement: "taufardh, All Rights Reserved"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
