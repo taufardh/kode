@@ -11,34 +11,15 @@ encrypted_text: true
 permalink: /
 ---
 
-# Kata Kita Kata Kata
+# Secret Area Kata Kita Kata Kata
 
-##  Features
-* Highly customizable, content-oriented with The Matrix style
-* This is add a paragraph
-* Eyesight-protection layout
-* Decrypt and encrypt text (access token: 233): 
-  * secret msg 1: 
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-  * secret msg 2: 
-  <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
-  * secret msg 3: 
-  <p class="encrypted" id="n2S3fH6RGTM7bPTgVDkAKQ3RlrBts+4O1yw7wjdoTzTt8XKPgMYHy6EA==">Encrypted content!</p>
-* LaTeX formula Support with MathJax
+##  Hi.
+Welcome to Secret Area. In this page you will find some secret message encrypted. Don't worry there is always have riddle or puzzle to solve for find token code to decrypt the message.  
+>Have fun :)
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
-* Code highlight with Rouge
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-## Download and Documentation
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
+Example :  
+answer this to encrypt secret message : 
+>3 + 5 x 5 - 9 = ...
+* Secret Message: 
+  <p class="encrypted" id="UL+xsmIBTtgj3cUcsjUjpwgIjSZTsGlz4loTiOPFQ7XS+8n8BKR/7wOKUp5mobbpyzm9AGXINjU12g1LoEnncDgd7WqHIO6JFwavaV/VGHlpkJfGMUKaU=">This is encrypted content!</p>
 
